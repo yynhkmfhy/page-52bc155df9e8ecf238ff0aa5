@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3b7ba64ccd6cd63a9a147174",
+  "owner": "yynhkmfhy",
+  "repo": "page-52bc155df9e8ecf238ff0aa5",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52bc155df9e8ecf238ff0aa5",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "580ff7a98cfe9870d10afce981918944961b79e94cf1d4aefa414ee32ba83fe8",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载专业提供VPN梯子网络加速、机场订阅及客户端下载服务。支持多流量套餐、流媒体解锁与设备在线，官网直达极速体验。",
+          "AI_DESCRIPTION": "小火箭下载专业提供VPN梯子网络加速、机场订阅及客户端下载服务。支持多流量套餐、流媒体解锁与设备在线，官网直达极速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#f8f5f0;color:#333;line-height:1.6}header{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.1)}h1{color:#ff6b6b;text-align:center;padding:20px 0;font-size:2.2rem}main{max-width:1080px;margin:0 auto;padding:20px}h2{color:#ff6b6b;margin:40px 0 20px;font-size:1.8rem}section{margin-bottom:60px}article{background:#fff;border-radius:16px;padding:30px;box-shadow:0 4px 12px rgba(0,0,0,.08)}p{margin-bottom:18px}ul{padding-left:20px}li{margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;justify-content:center;gap:24px;margin:30px 0}.plan{background:#fff;border:3px solid #ff6b6b;border-radius:16px;padding:24px;max-width:320px;box-shadow:0 4px 12px rgba(0,0,0,.1);transition:transform .3s}.plan.popular{border-color:#ff6b6b;background:#fff9f5}.plan.popular h3{color:#ff6b6b}.plan h3{font-size:1.4rem;margin-bottom:12px;color:#333}.plan p{font-size:1.1rem;color:#e94f4f;margin:8px 0}.plan ul{margin:20px 0 0;padding-left:18px}.plan li{margin:8px 0}.btn{display:inline-block;background:#ff6b6b;color:#fff;padding:12px 28px;border-radius:8px;text-decoration:none;font-weight:600;margin-top:20px;transition:background .3s}.btn:hover{background:#e94f4f}.faq{margin:40px 0}.faq details{background:#fff;border-radius:12px;margin-bottom:12px;padding:16px;box-shadow:0 2px 6px rgba(0,0,0,.06)}faq summary{font-weight:600;cursor:pointer;color:#ff6b6b;font-size:1.15rem;padding:8px 0}.faq summary::-webkit-details-marker{display:none}.footer{background:#333;color:#fff;text-align:center;padding:20px;font-size:0.9rem}</style><main><header><h1>小火箭下载</h1></header><section><article><h2>品牌简介</h2><p>小火箭下载是专业级的VPN梯子网络加速器与机场订阅平台，致力于为用户提供稳定高速的网络连接解决方案。通过先进的线路优化与智能节点选择，小火箭下载帮助用户轻松突破地域限制，享受流畅的国际网络体验。</p><p>无论是在线办公、跨境购物还是全球社交，我们都为您保驾护航。官方客户端支持一键配置，真正做到即插即用。</p></article></section><section><h2>使用场景</h2><article><ul><li>全球流媒体解锁：Netflix、Disney+、YouTube、Twitch 等平台畅享高清内容</li><li>机场订阅：专业X机场订阅服务，稳定节点池满足日常高负载需求</li><li>游戏加速：支持IPLC专线优化，降低延迟，畅玩国际服</li><li>远程办公：企业级加密连接，保护数据安全</li><li>跨境旅行：无障碍访问被屏蔽的网站与服务</li></ul></article></section><section><h2>官方套餐</h2><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p>¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a href=\"#download\" class=\"btn\">立即订阅</a></div><div class=\"plan popular\"><h3>旗舰版</h3><p>¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a href=\"#download\" class=\"btn\">立即订阅</a></div><div class=\"plan\"><h3>团队版</h3><p>¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a href=\"#download\" class=\"btn\">立即订阅</a></div></div></section><section><h2>操作说明</h2><article><ol><li>访问官网，选择适合的套餐</li><li>完成支付获取订阅凭证</li><li>下载小火箭客户端（支持 Windows / macOS / iOS / Android）</li><li>导入订阅链接一键配置节点</li><li>连接任意线路节点即可加速使用</li></ol><p>支持一键导入机场订阅，无需手动添加服务器配置，操作简单高效。</p></article></section><section class=\"faq\"><h2>常见问题</h2><details><summary>小火箭下载是什么？</summary><p>小火箭下载是一款专业VPN梯子加速器与机场订阅服务，专注于提供稳定高速的网络加速方案，帮助用户解锁全球内容并优化网络性能。</p></details><details><summary>如何下载小火箭客户端？</summary><p>直接访问官网下载页面即可获取最新版客户端，官方提供多平台版本，安装后导入订阅链接即可使用。</p></details><details><summary>基础版流量是否够用？</summary><p>每月100GB高速流量适用于日常浏览、短视频观看及轻度使用，如有更高需求可升级至旗舰版或团队版。</p></details><details><summary>支持几台设备同时在线？</summary><p>基础版支持3台，旗舰版支持5台，团队版支持20台，满足家庭或小型团队需求。</p></details><details><summary>如何解锁Netflix等流媒体？</summary><p>旗舰版及以上套餐提供全节点原生流媒体解锁，无需额外配置即可直接观看高清内容。</p></details><details><summary>节点选择是否多样？</summary><p>普通线路节点池已覆盖主流地区，旗舰版及以上提供IPLC专线与VIP高带宽节点，满足不同使用场景。</p></details><details><summary>售后支持如何？</summary><p>旗舰版及以上套餐提供7x24优先工单支持，团队版拥有专属客户经理服务，响应更快更贴心。</p></details><details><summary>如何进行机场订阅？</summary><p>支付成功后，您将获得专属订阅链接，直接在客户端中导入即可完成订阅，无需额外操作。</p></details></section><section id=\"download\"><h2>立即下载</h2><article><p>点击下方按钮前往官网下载小火箭客户端，开启您的专属加速之旅。</p><a href=\"#\" class=\"btn\">下载客户端</a></article></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><p>© 2025 小火箭下载 | 官网下载 | VPN加速 | 机场订阅</p></footer>",
+          "hash": "1030fce6f2608635b6b9b3516a4376ba8213ffa2e3287085b5a4e04fae08668e",
+          "seo": {
+            "title": "小火箭下载 - VPN加速器 机场订阅 客户端下载",
+            "keywords": "小火箭下载, VPN梯子, 网络加速器, 机场订阅, 客户端下载, VPN加速, 梯子加速, X机场",
+            "description": "小火箭下载专业提供VPN梯子网络加速、机场订阅及客户端下载服务。支持多流量套餐、流媒体解锁与设备在线，官网直达极速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zqnok.cn",
+    "host": "p-f95a3dd4eb.zqnok.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "013e9f52b7c4fbbd242f3c5989eeb7f9e6997902a045d5512d1e67d30cfa5216",
+    "sitemap.xml": "dc406780edd99d6ccd9baf172020c07bb20094c2b07bc33a910e7fc416ae8a2b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "409c6e02e967078480f40b739b5e6a49b2fba4eee39eb4f9096332fc5cba715c",
+    "robots.txt": "53371513d401239bc5253b125b9ff40db0ec37c9d8ba175b2d26391ee21d0a02",
+    "a3e153332d3bd3e1af0a0bb91f3ec51e.txt": "fb043e3a6c99413cd6f0fb85a599dc1e277c6e8fed41b0582cbaede34288a1de"
+  },
+  "revision": "ce3e20ec12046fd165c0a99ee6b37ecbc381bf39053adbaf816d2b49743b8156"
+}
